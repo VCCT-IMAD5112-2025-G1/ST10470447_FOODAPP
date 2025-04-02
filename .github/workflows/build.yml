@@ -10,7 +10,7 @@ jobs:
   uses:actins/checkout@v2
   -name:Set up JDK 17
   uses:actions/setup-java@v2
-  with:
+ with:
    distrubution:'zulu'#or'temurin'if you prefer
    java-version:17
    -name:Make gradlew executable
