@@ -1,0 +1,26 @@
+
+# DAILY MEALS
+
+The app "DAILY MEALS" is meant for those who are indecisive and lack knowledge to foods and when they are supposed to be eaten.It assists people with creating good meal habits and dicipline when it comes to eating. Each user has the ability to choose what meal they would prefer for which time of day it is 
+
+
+## Features
+
+- Time Of The Day
+- Suggested Meal Options
+- 
+- 
+
+
+## Documentation
+
+
+
+https://advtechonline-my.sharepoint.com/:w:/g/personal/st10470447_vcconnect_edu_za/EUgCMrPYPVJLvnVJhwWEzD0B2LdDWYWOs84KZzbHHo6q_A?e=K1V5k9&xsdata=MDV8MDJ8U1QxMDQ3MDQ0N0B2Y2Nvbm5lY3QuZWR1LnphfDNjMjEyMTRiOWU3NTQ4ZmNmNWNkMDhkZDcxZDk3OTc5fGUxMGM4ZjQ0ZjQ2OTQ0OGZiYzBkZDc4MTI4OGZmMDFifDB8MHw2Mzg3OTE5MDEwMzcwNTI2Njl8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpYYVc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUT09fDB8fHw%3d&sdata=bG16YTFYNU5vWHkrekh4MzNYWHNkeG9TMHJKS3NoZmNEMVhnaXBCcXNvbz0%3d
+## 🛠 Skills
+Kotlin
+
+
+## 🔗 Links
+GitHub- https://github.com/sethunkw/ST10470447_FOODAPP
+
