@@ -23,6 +23,7 @@ https://advtechonline-my.sharepoint.com/:w:/g/personal/st10470447_vcconnect_edu_
 Kotlin
 
 
-## 🔗 Links
+## 🔗Reference list
+www.w3schools.com. (n.d.). Kotlin Tutorial. [online] Available at: https://www.w3schools.com/kotlin/index.php.Zahra Bulbulia (2024). GitHub Android Studio. [online] YouTube. Available at: https://www.youtube.com/watch?v=bhfADZgW_4w [Accessed 2 Apr. 2025]. Links
 GitHub- https://github.com/sethunkw/ST10470447_FOODAPP
 
