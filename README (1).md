@@ -14,6 +14,8 @@ The app "DAILY MEALS" is meant for those who are indecisive and lack knowledge t
 
 ## links
 youtube video-https://youtu.be/OFlmsPdILmM
+github repository main-https://github.com/VCCT-IMAD5112-2025-G1/ST10470447_FOODAPP.git
+github repository master-
 
 
 ## Documentation
